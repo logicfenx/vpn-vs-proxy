@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/vpn-vs-proxy",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a vpn-vs-proxy",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/vpn-vs-proxy.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/en/vpn-vs-proxy-difference/"
+    },
+    "homepage": "https://bitcu.co/en/vpn-vs-proxy-difference/"
+}
